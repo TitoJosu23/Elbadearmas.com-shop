@@ -1,7 +1,12 @@
-/*
-    home.css: This website contains selectors only used in home.css
-
-    All pages share the styles on index.css but you should create 
-    one more css for each page that will contain the selected used 
-    on that page only (the ones not reused in other pages).
-*/
+.navbar-img{
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.navBG{
+    background: black !important;
+    font-size: 1.3rem;
+    color: white !important;
+}
+li, .navBG{
+    color: white !important;
+}
