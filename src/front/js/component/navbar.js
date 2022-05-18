@@ -1,5 +1,6 @@
 import React from "react";
 import "../../styles/home.css";
+import '../../styles/navbar.css';
 
 import { Button } from 'react-bootstrap';
 
@@ -32,6 +33,9 @@ export const Navbar = () => {
         <a className="nav-link" href="contacto">Contacto</a>
       </li>
     </ul>
+    <div className="vertical-line">
+    </div>
+    <FontAwesomeIcon icon="fa-solid fa-user" />
   </div>
 </nav>
 	);
