@@ -11,6 +11,8 @@ export const Home = () => {
 			<div className="container-home">
 				<div className="img-part">
 					<img src="https://i.redd.it/52f61nfzmwl51.jpg" className="img-home"></img>
+					<div></div>
+					<h2 className="tittle-in-img">Elba de Armas</h2>
 				</div>
 				<div className="welcome-home">
 					<h2>¡Bienvenidos!</h2>
