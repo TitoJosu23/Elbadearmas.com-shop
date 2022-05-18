@@ -1,4 +1,6 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 import "../../styles/home.css";
 import '../../styles/navbar.css';
 
@@ -35,7 +37,8 @@ export const Navbar = () => {
     </ul>
     <div className="vertical-line">
     </div>
-    <FontAwesomeIcon icon="fa-solid fa-user" />
+    <img src="https://www.shareicon.net/data/2016/11/14/852267_user_512x512.png" className="img-nav-user" />
+    <img src="https://devinefitnessequipment.co.nz/wp-content/uploads/2021/09/istockphoto-1206806317-170667a.jpeg" className="img-nav-car" ></img>
   </div>
 </nav>
 	);
