@@ -10,3 +10,13 @@
 li, .navBG{
     color: white !important;
 }
+
+.img-home{
+    width: 100%;
+    height: 800px;
+}
+.welcome-home{
+    background-color:lightgray;
+    height: 150px;
+    text-align: center;
+}
