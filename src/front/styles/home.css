@@ -18,7 +18,9 @@ li, .navBG{
 .welcome-home{
     background-color:lightgray;
     height: 150px;
-    text-align: center;
+    /* text-align: center;
+    justify-content : center;
+    align-items : center; */
 }
 .tittle-in-img{
     position: absolute;
@@ -34,4 +36,9 @@ li, .navBG{
 .img-part{
     margin: 0 !important;
     padding: 0 !important;
+}
+.margin-top{
+    /* text-align: center;
+    justify-content : center;
+    align-items : center; */
 }
