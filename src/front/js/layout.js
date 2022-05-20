@@ -6,6 +6,12 @@ import { Home } from "./pages/home";
 import { Podcast } from "./pages/Podcast";
 import { Tienda } from "./pages/Tienda";
 import { Single } from "./pages/single";
+import { PrivacyPolicy } from "./pages/PrivacyPolicy";
+import { TermsConditions } from "./pages/TermsConditions";
+import { ReturnPolicy } from "./pages/ReturnPolicy";
+import { ShippingPolicy } from "./pages/ShippingPolicy";
+
+
 import injectContext from "./store/appContext";
 
 import { Navbar } from "./component/navbar";
@@ -34,6 +40,18 @@ const Layout = () => {
 						</Route>
 						<Route exact path="/single/:theid">
 							<Single />
+						</Route>
+						<Route exact path="/privacypolicy">
+							<PrivacyPolicy />
+						</Route>
+						<Route exact path="/TermsConditions">
+							<TermsConditions />
+						</Route>
+						<Route exact path="/ReturnPolicy">
+							<ReturnPolicy />
+						</Route>
+						<Route exact path="/ShippingPolicy">
+							<ShippingPolicy />
 						</Route>
 						<Route>
 							<h1>Not found!</h1>
