@@ -4,10 +4,10 @@ import "../../styles/footer.css";
 export const Footer = () => (
 	<footer className="text-center footer">
 		<div className="container-footer">
-			<a href="PrivacyPolicy" target="_blank">Política de privacidad</a> 
-			<a href="TermsConditions" target="_blank">Términos y condiciones</a> 
-			<a href="ReturnPolicy" target="_blank">Return Policy</a> 
-			<a href="ShippingPolicy" target="_blank">Shipping Policy</a> 
+			<a href="PrivacyPolicy">Política de privacidad</a> 
+			<a href="TermsConditions">Términos y condiciones</a> 
+			<a href="ReturnPolicy">Return Policy</a> 
+			<a href="ShippingPolicy">Shipping Policy</a> 
 		</div> 
 </footer> 
 );
