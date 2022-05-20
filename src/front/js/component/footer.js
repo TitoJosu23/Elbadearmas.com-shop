@@ -1,13 +1,14 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import "../../styles/footer.css";
 
 export const Footer = () => (
 	<footer className="text-center footer">
 		<div className="container-footer">
-			<a href="PrivacyPolicy">Política de privacidad</a> 
-			<a href="TermsConditions">Términos y condiciones</a> 
-			<a href="ReturnPolicy">Return Policy</a> 
-			<a href="ShippingPolicy">Shipping Policy</a> 
+			<Link to="/PrivacyPolicy">Política de privacidad</Link>
+			<Link to="/TermsConditions">Términos y condiciones</Link>
+			<Link to="/ReturnPolicy">ReturnPolicy</Link>
+			<Link to="/ShippingPolicy">Shipping Policy</Link>
 		</div> 
 </footer> 
 );
