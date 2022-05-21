@@ -10,10 +10,10 @@ export const ReturnPolicy = () => {
           <h4>ReturnPolicy</h4>
 		  <div className="rp-line"></div>
         </div>
-        <div>
+        <div className="rp-2">
           <h3>RETURN POLICY</h3>
         </div>
-        <div>
+        <div className="rp-3">
           <p>
             We will accept returns for a full refund within 15 days of the date
             your order was delivered. Returned items must be in their original
