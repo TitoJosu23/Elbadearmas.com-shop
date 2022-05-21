@@ -1,5 +1,6 @@
-.container-rp p{
-    color: rgb(102, 102, 102);
+.container-rp p {
+  color: rgb(102, 102, 102);
+  font-size: 18px;
 }
 .container-rp {
   margin: auto;
@@ -25,4 +26,3 @@
 .rp-3 {
   margin-bottom: 200px;
 }
-
