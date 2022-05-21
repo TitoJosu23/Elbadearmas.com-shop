@@ -1,4 +1,13 @@
-.container-rp{
-    margin: auto;
-    width: 800px;
+.container-rp {
+  margin: auto;
+  width: 800px;
+}
+.rp-1 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.rp-line {
+  width: 100%;
+  height: 1px;
+  background-color: black;
 }
