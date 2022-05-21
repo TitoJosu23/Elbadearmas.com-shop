@@ -1,13 +1,13 @@
-import React, { useState, useEffect, useContext } from "react";
-import { Link } from "react-router-dom";
-import { Context } from "../store/appContext";
+import React from "react";
+
+import "../../styles/ReturnPolicy.css";
 
 export const ReturnPolicy = () => {
   return (
     <>
-      <div class="container-rp">
+      <div className="container-rp">
         <div>
-          <h2>ReturnPolicy</h2>
+          <h4>ReturnPolicy</h4>
         </div>
         <div>
           <h3>RETURN POLICY</h3>
