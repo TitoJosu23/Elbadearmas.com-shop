@@ -6,7 +6,7 @@ import { Button } from 'react-bootstrap';
 
 export const Navbar = () => {
 	return (
-		<nav className="navbar navbar-expand-lg navbar-dark navBG position-fixed w-100 ">
+		<nav className="navbar navbar-expand-lg navbar-dark navBG w-100 sticky ">
 		<img src="http://img1.wsimg.com/isteam/ip/dec62967-41b1-4326-9140-9f7297fee5d8/Logo%20con%20tipograf%C3%ADa%20circular%20para%20servici-0001.png/:/rs=w:100,h:100,cg:true,m/cr=w:100,h:100/qt=q:95" className="navbar-img"></img>
   <a className="navbar-brand" href="/">¿Quién soy?</a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

@@ -28,5 +28,9 @@
     font-size: 1.3rem;
 }
 li, .navBG{
-    color: white !important;
+    color: white ;
+}
+.sticky{
+    position: sticky;
+    top:0;
 }
