@@ -13,6 +13,8 @@ export const Home = () => {
 					<h2 className="tittle-in-img">Elba de Armas</h2>
 				</div>
 					<CarouselTienda />
+					<CarouselTienda />
+		
 				<div className="welcome-home"> 
 					<h2 className="margin-top">¡Bienvenidos!</h2> 
 					<p>Hola, Soy Elba y me encantan que estes aquí espero que disfrutes de mi contenido y todo lo que tengo para ofrecerte  ¡Besos!  </p>

@@ -1,5 +1,5 @@
 .carousel-row{
-    /* width: 800px; */
+    width: 320px;
 }
 h3{
     margin-left: 100px;
@@ -15,4 +15,5 @@ h3{
 }
 .card{
     width: 300px;
+    display: flex;
 }
