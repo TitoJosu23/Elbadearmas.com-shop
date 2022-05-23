@@ -14,6 +14,7 @@ export const Home = () => {
 				</div>
 					<CarouselTienda />
 					<CarouselTienda />
+					<CarouselTienda />
 		
 				<div className="welcome-home"> 
 					<h2 className="margin-top">¡Bienvenidos!</h2> 
