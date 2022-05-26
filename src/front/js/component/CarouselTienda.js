@@ -14,7 +14,7 @@ export const CarouselTienda = () => {
       <CardT />
     </div>
   );
-};
+}; 
 
 {
   /* <div className="carousel-row">
