@@ -8,7 +8,9 @@ export const CarouselTienda = () => {
     <div className="carousel-row">
       <div>
         <h3 className="text-left">Tienda</h3>
-        <div></div>
+        <div>
+          
+        </div>
       </div> 
       {/* este es la carta */} 
       <CardT /> 
