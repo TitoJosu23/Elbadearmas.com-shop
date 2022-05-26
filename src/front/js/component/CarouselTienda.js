@@ -7,16 +7,14 @@ export const CarouselTienda = () => {
   return (
     <div className="carousel-row">
       <div>
-        <h3 className="text-left">Tienda</h3>
-        <div>
-          
-        </div>
-      </div> 
-      {/* este es la carta */} 
-      <CardT /> 
-    </div> 
-  ); 
-}; 
+        <h3 className="text-left">Tienda</h3> 
+        <div></div>
+      </div>
+      {/* este es la carta */}
+      <CardT />
+    </div>
+  );
+};
 
 {
   /* <div className="carousel-row">
