@@ -11,7 +11,7 @@ export const CarouselTienda = () => {
         <div></div>
       </div>
       {/* este es la carta */}
-      <CardT />
+      <CardT /> 
     </div> 
   ); 
 }; 
