@@ -20,7 +20,7 @@ export const Home = () => {
           <h2 className="margin-top">¡Bienvenidos!</h2>
           <p>
             Hola, Soy Elba y me encantan que estes aquí espero que disfrutes de
-            mi contenido y todo lo que tengo para ofrecerte ¡Besos!{" "}
+            mi contenido y todo lo que tengo para ofrecerte. ¡Besos!{" "}
           </p>
         </div>
       </div>
