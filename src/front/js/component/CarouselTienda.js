@@ -10,7 +10,7 @@ export const CarouselTienda = () => {
         <h3 className="text-left">Tienda</h3>
         <div></div>
       </div>
-      {/* este es la carta */}
+      {/* este es la carta */} 
       <CardT /> 
     </div> 
   ); 
