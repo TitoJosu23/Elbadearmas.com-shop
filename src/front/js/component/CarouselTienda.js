@@ -12,7 +12,7 @@ export const CarouselTienda = () => {
       </div>
       {/* este es la carta */}
       <CardT />
-    </div>
+    </div> 
   ); 
 }; 
 
