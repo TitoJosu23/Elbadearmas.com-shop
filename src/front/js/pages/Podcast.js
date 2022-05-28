@@ -3,10 +3,9 @@ import { Link } from "react-router-dom";
 import { Context } from "../store/appContext";
 
 export const Podcast = () => {
-	return (
-		<>
-		<h2>Hola Mundo</h2>
-		<h2>Podcast</h2>
-		</>
-	);
+  return (
+    <div className="">
+      <img></img>
+    </div>
+  );
 };
