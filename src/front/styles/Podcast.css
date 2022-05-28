@@ -1,5 +1,14 @@
-.podcast-container{
-    width: 70%;
-    background: rgb(255, 89, 89);
-
+.podcast-container {
+  width: 70%;
+  background: rgb(255, 89, 89);
+  display: inline-block;
+}
+.center-div-podcast {
+  display: inline-block;
+}
+.podcast-img-1 {
+  display: inline-block;
+}
+.text-1 {
+  display: inline-block;
 }
