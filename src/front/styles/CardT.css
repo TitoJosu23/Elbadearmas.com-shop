@@ -1,0 +1,12 @@
+.to-width{
+    width: 300px;
+    display: inline-block;
+} 
+
+.cardT-img{
+    width: 300px !important;
+}
+
+.CardTT{ 
+    width: 300px !important;
+}

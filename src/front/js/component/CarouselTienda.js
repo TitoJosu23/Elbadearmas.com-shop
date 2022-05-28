@@ -1,5 +1,5 @@
 import React from "react";
-import { CardT } from "./CardT.js";
+import {CardT} from "./CardT.js";
 
 import "../../styles/CarouselTienda.css";
 
@@ -7,11 +7,13 @@ export const CarouselTienda = () => {
   return (
     <div className="carousel-row">
       <div>
-        <h3 className="text-left">Tienda</h3> 
+        <h3 className="text-left">Tienda</h3>
         <div></div>
       </div>
       {/* este es la carta */}
-      <CardT />
+      <div className="carousel-scroll">
+        <CardT />
+      </div>
     </div>
   );
 };
